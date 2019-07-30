@@ -30,7 +30,7 @@ El curso inducirá al alumno a la ciencia de datos y proporcionará conocimiento
 
 ## Horas de clase
 
-Esta clase será los Lunes de 7:00 p.m a 10:00 p.m.
+Esta clase será los Martes de 7:00 p.m a 10:00 p.m.
 
 ## Sitio web
 
