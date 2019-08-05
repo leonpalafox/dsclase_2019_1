@@ -96,22 +96,18 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 7.  Proyecto de Inteligencia de Negocios (Todo el curso)
 
 
+
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pdf)
-- [Clase 2 - Datos/Python](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_2_20182.pdf)
-- [Clase 3 - Data Governance - Cloud](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_3_20182.pdf)
-- [Clase 4 - Machine Learning](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_4_20182.pdf)
-
-
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pptx)
 
 
 
 # Ejercicios
 
 - [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
-- [Ejercicio de Churn](https://github.com/leonpalafox/dsclase/blob/master/Capitulo2Demo/ChurnAnalysis.ipynb)
-- [Manejo de Datos Categóricos](https://colab.research.google.com/drive/11IzcFiIiCR_ynateXoOX-1-_1R7n5wB2)
+
+
 
 # Tareas
 

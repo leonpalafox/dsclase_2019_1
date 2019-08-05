@@ -100,24 +100,21 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Slides
 
-- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pdf)
-- [Clase 2 - Datos/Python](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_2_20182.pdf)
-- [Clase 3 - Data Governance - Cloud](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_3_20182.pdf)
-- [Clase 4 - Machine Learning](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_4_20182.pdf)
+- [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pptx)
+
 
 
 # Ejercicios
 
 - [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
-- [Manejo de un proyecto de Datos](https://github.com/leonpalafox/dsclase/blob/master/Capitulo2Demo/ChurnAnalysis.ipynb)
-- [Manejo de Datos Categóricos](https://colab.research.google.com/drive/11IzcFiIiCR_ynateXoOX-1-_1R7n5wB2)
+
 
 
 # Tareas
 
-1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. Entrega: 22 de Octubre
-2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. Entrega 29 de Octubre
-3. De la lectura de Data Visualization escribir un reporte. Entrega 5 de Noviembre
+1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas.
+2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. 
+3. De la lectura de Data Visualization escribir un reporte. 
 
 # Lecturas
 
