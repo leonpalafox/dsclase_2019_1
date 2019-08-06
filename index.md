@@ -1,6 +1,5 @@
 
 
-
 - [Introducción](#introduccion)
 - [Objetivo](#objetivo)
 - [Estructura del Curso:](#estrctura-del-curso)
@@ -48,8 +47,7 @@ La evaluación consistirá en:
     - El proyecto final consistira en el uso de un set de datos de su preferencia para diseñar un caso de negocio.
   - Pueden hacer equipos de hasta tres personas.
   - Necesitan hacer un reporte de 3-5 paginas sobre el set de datos, el diseño y las variables usadas.
-  - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
-
+    - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
 
 - El restante 40% será distribuido de la siguiente forma:
   - Dos examenes. 
@@ -98,29 +96,35 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 7.  Proyecto de Inteligencia de Negocios (Todo el curso)
 
 
+
 # Slides
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pptx)
+- [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Slides/Clase_2_20191.pptx)
 
 
 
 # Ejercicios
 
-- [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
+- [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
+- [Ejercicio 2 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPythonTitanic.ipynb)
+
 
 
 
 # Tareas
 
-1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas.
-2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. 
-3. De la lectura de Data Visualization escribir un reporte. 
+1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. Entrega: 22 de Octubre
+2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. Entrega 29 de Octubre
+3. De la lectura de Data Visualization escribir un reporte. Entrega 5 de Noviembre
 
 # Lecturas
 
 - [Enterprise Data Analysis and Visualization: An Interview Study](https://github.com/leonpalafox/dsclase/blob/master/Lecturas/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 - [Snow and Cholera](https://www.inferentialthinking.com/chapters/02/causality-and-experiments)
 - [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
+
+
 
 # Libros de texto
 
@@ -133,3 +137,7 @@ Se require una computadora con Python instalado.
 # Politicas
 
 Se pueden utilizar teléfonos y bipers, siempre y cuando no molestén al resto del salón.
+
+
+
+
