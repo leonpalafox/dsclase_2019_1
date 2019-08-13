@@ -101,6 +101,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/dsclase/blob/master/Slides/Clase_1_20182.pptx)
 - [Clase 2 - Datos](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Slides/Clase_2_20191.pptx)
+- [Clase 3 - Proyectos de Datos](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Slides/Clase_3_20191.pptx)
 
 
 
@@ -114,15 +115,16 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 # Tareas
 
-1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. Entrega: 22 de Octubre
-2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. Entrega 29 de Octubre
-3. De la lectura de Data Visualization escribir un reporte. Entrega 5 de Noviembre
+1. De la Lectura de Enterprise Data Analysis and Visualization.... escribir un reporte, máximo 2 cuartillas. 
+2. De la lectura de Snow and Cholera escribir un reporte, máximo 2 cuartillas. 
+3. De la lectura de Data Visualization escribir un reporte. 
 
 # Lecturas
 
 - [Enterprise Data Analysis and Visualization: An Interview Study](https://github.com/leonpalafox/dsclase/blob/master/Lecturas/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 - [Snow and Cholera](https://www.inferentialthinking.com/chapters/02/causality-and-experiments)
 - [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
+- [Caso Banorte de Data Analytics](https://hbr.org/2018/01/how-one-company-made-its-analytics-investment-pay-off)
 
 
 
