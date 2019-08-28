@@ -128,6 +128,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Data Visualization for Human Perception](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/data-visualization-for-human-perception)
 - [Caso Banorte de Data Analytics](https://hbr.org/2018/01/how-one-company-made-its-analytics-investment-pay-off)
 
+# Sets de Datos
+
+- [Ventas de autos en Noruega](https://raw.githubusercontent.com/leonpalafox/ticlase/master/Resources/Datasets/newcarsalesnorway/norway_new_car_sales_by_model.csv)
 
 
 # Libros de texto
