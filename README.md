@@ -111,7 +111,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 - [Ejercicio 1 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPython.ipynb)
 - [Ejercicio 2 de Python](https://github.com/leonpalafox/dsclase_2019_1/blob/master/Capitulo1Introduccion/IntroduccionPythonTitanic.ipynb)
 - [Ejercicio 3 de Visualizaciones](https://colab.research.google.com/drive/1FU3yeJlsvwrg5yyt4OQ5br0Aw5cWy4Su)
-
+- [Ejercicio de Proyecto/Visualizaciones](https://colab.research.google.com/drive/1FkvFnsy363aw7NZrQKr1clRZvQ9TTf0f)
 
 
 
