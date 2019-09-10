@@ -133,6 +133,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 
 - [Ventas de autos en Noruega](https://raw.githubusercontent.com/leonpalafox/ticlase/master/Resources/Datasets/newcarsalesnorway/norway_new_car_sales_by_model.csv)
 - [Autos Uber](https://raw.githubusercontent.com/leonpalafox/mlclase/master/Unsupervised/data_clustering/uber-raw-data-jul14.csv)
+- [Estaciones de Ecobicis](https://raw.githubusercontent.com/leonpalafox/dsclase_2019_1/master/ecobicis/data/estaciones.csv)
 
 # Libros de texto
 
